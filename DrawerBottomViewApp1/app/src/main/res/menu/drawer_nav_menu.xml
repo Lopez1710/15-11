@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item
+    android:id="@+id/nav_inicio"
+    android:title="Inicio"
+    android:icon="@drawable/inicio"
+    />
+    <item
+        android:id="@+id/nav_camara"
+        android:title="camara"
+        android:icon="@drawable/camara"
+        />
+    <item
+        android:id="@+id/nav_galeria"
+        android:title="galeria"
+        android:icon="@drawable/galeria"
+        />
+    <item
+        android:id="@+id/nav_mensaje"
+        android:title="mensaje"
+        android:icon="@drawable/mensaje"
+        />
+</menu>
